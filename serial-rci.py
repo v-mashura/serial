@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-'''
-Usage: %s '<Base16-encoded-space-separated-cource-data>'
-'''
 
 import sys
 import subprocess
